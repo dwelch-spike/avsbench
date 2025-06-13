@@ -1,6 +1,6 @@
 # AVS Python Client Benchmark
 
-This project provides a benchmarking tool for AVS (Alexa Voice Service) using the AVS Python client. It is designed to be similar in functionality to the AVS Kotlin benchmark.
+This project provides a benchmarking tool for AVS using the AVS Python client. It is designed to be similar in functionality to the AVS Kotlin benchmark.
 
 ## Setup
 
